@@ -17,3 +17,4 @@ MAMEM_SSVEP/files/*
 MAMEM_SSVEP/orig_dataset/*
 MAMEM_SSVEP/.ipynb_checkpoints/*
 MAMEM_SSVEP/ssvep-epo.fif
+pyvenv.cfg
