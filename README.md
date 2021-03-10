@@ -1,5 +1,5 @@
-# RP36O
-> Rodrigo Hübner
+# RP36O - Reconhecimento de Padrões
+> Prof. Dr. Rodrigo Hübner
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bneurd/RP36O.git/HEAD)
 
